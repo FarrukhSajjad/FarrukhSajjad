@@ -1,6 +1,6 @@
 ### Hi there, I'm Farrukh - aka [dartLORD][website] 👋
 
-[![Twitter Follow]](https://twitter.com/farrukhV2)]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Have a go at becoming GDE for FlutterDev
