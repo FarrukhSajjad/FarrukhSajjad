@@ -2,6 +2,9 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br/>
+<br/>
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Have a go at becoming GDE for FlutterDev
 - ⚡ Fun fact: I would love to learn to play guitar or piano.
