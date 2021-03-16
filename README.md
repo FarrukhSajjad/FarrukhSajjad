@@ -1,7 +1,6 @@
 ### Hi there, I'm Farrukh - aka [dartLORD][website] 👋
 
-[![Website]](http://farrukhsajjad.github.io/)
-[![Twitter Follow]](https://twitter.com/farrukhV2)
+[![Twitter Follow]](https://twitter.com/farrukhV2)]
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Have a go at becoming GDE for FlutterDev
