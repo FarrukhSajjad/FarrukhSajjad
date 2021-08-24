@@ -1,4 +1,4 @@
-### Hi there, I'm Farrukh - aka [dartLORD][website] 👋
+### Hi there, I'm Farrukh - Junior Unity Developer at Afternoon Apps👋
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -6,7 +6,7 @@
 <br/>
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Have a go at becoming GDE for FlutterDev
+- 🥅 2021 Goals: Grow my skills as a game developer and release atleast 2 mobile games this year.
 - ⚡ Fun fact: I would love to learn to play guitar or piano.
 - 🎮 Condemning high GPU prices 😉 
 
