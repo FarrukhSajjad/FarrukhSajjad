@@ -6,7 +6,7 @@
 <br/>
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Grow my skills as a game developer and release atleast 2 mobile games this year.
+- 🥅 2022 Goals: Million $s.
 - ⚡ Fun fact: I would love to learn to play guitar or piano.
 - 🎮 Condemning high GPU prices 😉 
 
