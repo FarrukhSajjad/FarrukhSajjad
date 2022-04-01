@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated Push Notification - Flutter](https://farrukhsajjad.medium.com/atioupdated-push-notifications-flutter-e57e34051704)
+- [Right way to wrap your UI inside safe area - Unity](https://farrukhsajjad.medium.com/the-right-way-to-wrap-your-ui-inside-the-safe-area-unity-71668119f02d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://farrukhsajjad.medium.com/)
