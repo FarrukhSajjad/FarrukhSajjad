@@ -1,4 +1,4 @@
-### Hi there, I'm Farrukh - Junior Unity Developer at Afternoon Apps👋
+### Hi there, I'm Farrukh - Unity Developer @ 9D Technologies👋
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
