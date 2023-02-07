@@ -52,7 +52,7 @@
 </details>
 
 [website]: http://farrukhsajjad.github.io/
-[twitter]: https://twitter.com/farrukhV2
+[twitter]: https://twitter.com/mfarrukhsajjad
 [youtube]: https://www.youtube.com/channel/UCDRiYTjNtu6KSL6pX3eatzA/featured
 [instagram]: https://www.instagram.com/indieclan/
 [linkedin]: https://www.linkedin.com/in/farrukh-sajjad-673654158/
