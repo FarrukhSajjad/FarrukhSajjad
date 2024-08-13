@@ -33,16 +33,13 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Farrukh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FarrukhSajjad&show_icons=true&hide_border=true" />
+  <summary>:zap: GitHub Stats</summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarrukhSajjad&show_icons=true&locale=en&layout=compact" alt="FarrukhSajjad" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FarrukhSajjad&show_icons=true&locale=en" alt="FarrukhSajjad" /></p>
 
-</details>
 
 [website]: https://linktr.ee/farrukhsajjad
 [twitter]: https://twitter.com/mfarrukhsajjad
