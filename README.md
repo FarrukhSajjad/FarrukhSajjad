@@ -1,4 +1,4 @@
-### Hi there, I'm Farrukh - Game Developer @ Ropstam Game Studio👋
+### Hi there, I'm Farrukh - Game Designer @ Orbit Cosmos👋
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
