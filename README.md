@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[website]
-[youtube]
-[twitter]
-[linkedin]
-[instagram]
+[Website]
+[Youtube]
+[Twitter]
+[Linkedin]
+[Instagram]
 
 <br />
 <br />
