@@ -1,4 +1,4 @@
-### Hi there, I'm Farrukh - Game Designer @ Orbit Cosmos👋
+### Hi there, I'm Farrukh - Gameplay Programmer @ Ropstam Game Studio👋
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
@@ -43,6 +43,6 @@
 
 [website]: https://linktr.ee/farrukhsajjad
 [twitter]: https://twitter.com/mfarrukhsajjad
-[youtube]: https://www.youtube.com/channel/UCDRiYTjNtu6KSL6pX3eatzA/featured
-[instagram]: https://www.instagram.com/mr.sajjad.jr/
-[linkedin]: https://www.linkedin.com/in/farrukh-sajjad-673654158/
+[youtube]: https://www.youtube.com/@mfarrukhsajjad
+[instagram]: https://www.instagram.com/mfarrukhsajjad
+[linkedin]: https://www.linkedin.com/in/mfarrukhsajjad-game-designer/
